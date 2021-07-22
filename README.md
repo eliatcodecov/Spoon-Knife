@@ -10,3 +10,4 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 
 This is my trivial edit to test GPG signing. 
 This is my second trivial edit to test GPG signing.
+And the third. 
