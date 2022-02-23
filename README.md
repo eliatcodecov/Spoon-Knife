@@ -12,3 +12,4 @@ This is my trivial edit to test GPG signing.
 This is my second trivial edit to test GPG signing.
 And the third. 
 And the fourth.
+And the fifth. 
